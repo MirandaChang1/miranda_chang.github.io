@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "A Re-Analysis of the Neuroimaging Analysis Replication and Prediction Study: Absence of Amygdala Engagement During Value-Based Decision-Making"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-09-07-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2022-09-07
+venue: 'Inkblot Undergraduate Journal of Psychology'
+paperurl: ''
+citation: 'Chang, M. (2022). &quot;A Re-Analysis of the Neuroimaging Analysis Replication and Prediction Study: Absence of Amygdala Engagement During Value-Based Decision-Making Number 1.&quot; <i>Inkblot Undergraduate Journal of Psychology 1</i>. 11, 41-51.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
