@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
 My name is Miranda and I am a Masters student in Clinical Psychology (Neuropsychology Specialization) at Simon Fraser University, supervised by [Dr. Molly Cairncross] (https://www.cairncrosslab.com/). I am also currently a Senior Research Assistant at the Memory and Perception Lab in the University of Toronto, working with [Dr. Morgan Barense](https://barense.psych.utoronto.ca/). I earned my Honours Bachelor of Science with a specialization in Psychology Research and a major in Neuroscience in UofT.
 
 Research Overview
