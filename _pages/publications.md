@@ -5,12 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+title: "A Re-Analysis of the Neuroimaging Analysis Replication and Prediction Study: Absence of Amygdala Engagement During Value-Based Decision-Making"
+collection: publications
+permalink: /publications/2022-09-05-test-accts-intro
+venue: ""
+excerpt: ''
+date: 2009-10-01
+paperurl: 
+citation: 'Chang, M. (2022). "A Re-Analysis of the Neuroimaging Analysis Replication and Prediction Study: Absence of Amygdala Engagement During Value-Based Decision-Making." <i>Inkblot Undergraduate Journal of Psychology 1</i>. 11, 41-51.'
